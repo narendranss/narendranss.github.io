@@ -55,8 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Everyone is a Hero, League of Heroes create an Agile Team"
+  - text: "League of Heroes create an Agile Team, Everyone in the team are Heroes"
   - text: "Bump away from Consumer Mindset"
+  - text: "The Only disabiliity in life is Bad Attitude"
 
 me-img: "https://github.com/narendranss.png?size=500"
 
