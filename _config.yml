@@ -55,9 +55,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "League of Heroes create an Agile Team, Everyone in the team are Heroes"
-  - text: "Bump away from Consumer Mindset"
-  - text: "The Only disabiliity in life is Bad Attitude"
+  - text: "League of heroes create an agile team, everyone in the team are heroes"
+  - text: "Bump away from consumer mindset, make stone soups"
+  - text: "The only disabiliity in life is bad attitude"
+  - text: "Bi-model leadership with traditional and agile had to exists together"
 
 me-img: "https://github.com/narendranss.png?size=500"
 
