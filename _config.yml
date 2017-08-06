@@ -56,7 +56,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "League of heroes create an agile team, everyone in the team are heroes"
-  - text: "Bump away from consumer mindset, make stone soups"
+  - text: "Make stone soups, bump away from consumer mindset"
   - text: "The only disabiliity in life is bad attitude"
   - text: "Bi-model leadership with traditional and agile had to exists together"
 
