@@ -33,13 +33,13 @@ author: "Narendran Solai Sridharan"
 title: "Home"
 description: "Blog and website of Narendran Solai Sridharan, blogging mainly for tech. Opinions expressed are mine."
 keywords: "Naren, naren, solai, Solai, Narendran, narendran"
-favicon: "/img/favicon.ico"
+favicon: "/img/favicon.jpg"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/favicon.ico"
+black-favicon: "/img/favicon.jpg"
 
 background-img: "/img/home-bg.jpg"
 
