@@ -13,12 +13,14 @@
             <a href="#{{ site.pages_list['About'] }}" class="page-scroll">
               {% if site.me-img contains "https://" %}
                 <img class="img-me" src="{{ site.me-img }}" alt="">
-              {% else %}
+              {% elsif site.me-img != "NIL" %}
+                <h2>{{ site.me-img }}</h2>
                 <img class="img-me" src="{{site.baseurl}}{{ site.me-img }}" alt="">
+              {% else %}
               {% endif %}
             </a>
 			<h5>&nbsp;</h5>
-			<h1>{{ site.title }}</h1>
+			<h1>{{ site.author }}</h1>
 			<span class="intro-text">{{ content }}</span>
           </div>
         </div>

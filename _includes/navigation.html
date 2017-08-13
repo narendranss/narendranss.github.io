@@ -13,9 +13,6 @@
         <a class="navbar-brand" href="{{site.baseurl}}/">
       {% endif %}
           <div>
-            {% if site.black-favicon %}
-              <img src="{{site.baseurl}}{{ site.black-favicon }}" alt="">
-            {% endif %}
             {{ site.title }}
           </div>
         </a>
@@ -42,9 +39,16 @@
               {% else %}
                 <a href="{{site.baseurl}}/blog/"> {{p[0]}} </a>
               {% endif %}
+            {% elsif p[1] == "latest-projects" %}
+              {% if page.url == "/projects/index.html" | prepend: {{site.baseurl}} %}
+                <a class="page-scroll" href="#page"> {{p[0]}} </a>
+              {% else %}
+                <a href="{{site.baseurl}}/projects/"> {{p[0]}} </a>
+              {% endif %}
             {% else %}
                 <a href="{{site.baseurl}}/#{{ p[1] }}"> {{p[0]}} </a>
             {% endif %}
+
             </li>
           {% endfor %}
         {% endif %}
