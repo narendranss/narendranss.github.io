@@ -6,4 +6,4 @@ JPMS
 > https://narendranss.github.io/slides/jpms/presentation.html
 
 Java 9 features
-> https://narendranss.github.io/slides/jpms/presentation.html
+> https://narendranss.github.io/slides/java-9-features/presentation.html
