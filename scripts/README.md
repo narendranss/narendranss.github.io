@@ -1,3 +1,11 @@
+Following are the commands to work with this repo,
+1. install
+2. serve-production
+3. serve
+4. new-post
+5. generate-category
+6. generate-tag
+
 install
   - Installs jekyll and the dependencies required by personal-jekyll-theme
 
