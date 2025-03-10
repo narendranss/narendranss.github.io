@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Getting started with consul
-category: Tech
+category: tech
 tags: [ 'consul']
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: How to make Bubble Sort Interesting?
-category: Tech, Algorithms
+category: tech, algorithms
 tags: [ 'Algorithms', 'Bubble Sort']
 ---
 

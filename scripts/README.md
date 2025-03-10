@@ -27,3 +27,14 @@ generate-tag
 integrate-personal
   - Integrates the latest bug fixes and new features from personal-jekyll-theme repository.
   Make sure to read [this](https://github.com/PanosSakkos/personal-jekyll-theme/wiki/Integrating-latest-bug-fixes-and-features-into-your-past-fork) before using it.
+
+# Sample commands
+```
+ruby ./scripts/install
+ruby ./scripts/serve
+ruby ./scripts/serve-production
+ruby ./scripts/new-post "My New Post"
+ruby ./scripts/generate-category
+ruby ./scripts/generate-tag
+ruby ./scripts/integrate-personal
+```

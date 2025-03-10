@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: How to make Quick Sort more Interesting?
-category: Tech, Algorithms
+category: tech, algorithms
 tags: [ 'Algorithms', 'Quick Sort']
 ---
 
